@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!--  Homepage -->
+  <url>
+    <loc>http://litao.me/</loc>
+    <lastmod>2012-10-12</lastmod>
+    <changefreq>daily</changefreq>
+		<priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://litao.me/2012/09/27/iocp.html</loc>
+    
+    <lastmod>2012-09-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://litao.me/2012/09/16/begin.html</loc>
+    
+    <lastmod>2012-09-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://litao.me/2012/04/25/open-registry-key-in-regedit-exe.html</loc>
+    
+    <lastmod>2012-04-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://litao.me/2012/04/23/How-to-Get-Network-Change-automation.html</loc>
+    
+    <lastmod>2012-04-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://litao.me/2012/04/19/analyze-dead-lock.html</loc>
+    
+    <lastmod>2012-04-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://litao.me/2012/03/05/use_declspec_thread_in_dll.html</loc>
+    
+    <lastmod>2012-03-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://litao.me/2011/11/12/Why-do-we-want-to-share.html</loc>
+    
+    <lastmod>2011-11-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://litao.me/2011/08/22/nginx-1.0.5-in-windows-heap-corruption.html</loc>
+    
+    <lastmod>2011-08-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://litao.me/2011/06/28/PE-File-Checksum-Algorithm.html</loc>
+    
+    <lastmod>2011-06-28</lastmod>
+    
+  </url>
+  
+
+  
+  <url>
+    <loc>http://litao.me/about.html</loc>
+    
+    <lastmod>2012-10-12</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://litao.me/index.html</loc>
+    
+    <lastmod>2012-10-12</lastmod>
+    
+    
+    
+  </url>
+  
+
+</urlset>
